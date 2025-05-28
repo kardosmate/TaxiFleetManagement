@@ -1,0 +1,14 @@
+C:\Work\TaxiFleetManagement\TaxiFleetData\bin\Debug\net8.0\TaxiFleetData.deps.json
+C:\Work\TaxiFleetManagement\TaxiFleetData\bin\Debug\net8.0\TaxiFleetData.runtimeconfig.json
+C:\Work\TaxiFleetManagement\TaxiFleetData\bin\Debug\net8.0\TaxiFleetData.dll
+C:\Work\TaxiFleetManagement\TaxiFleetData\bin\Debug\net8.0\TaxiFleetData.pdb
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.csproj.AssemblyReference.cache
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.AssemblyInfoInputs.cache
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.AssemblyInfo.cs
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.csproj.CoreCompileInputs.cache
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.dll
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\refint\TaxiFleetData.dll
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.pdb
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.genruntimeconfig.cache
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\ref\TaxiFleetData.dll

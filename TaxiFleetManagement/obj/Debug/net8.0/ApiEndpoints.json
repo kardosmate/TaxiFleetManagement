@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "TaxiFleetManagement.Controllers.VehicleContoller",
+    "Method": "GetVehicles",
+    "RelativePath": "api/VehicleContoller",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaxiFleetManagement.Controllers.VehicleContoller",
+    "Method": "AddVehicle",
+    "RelativePath": "api/VehicleContoller",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createVehicleDto",
+        "Type": "TaxiFleetApi.Models.CreateVehicleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaxiFleetManagement.Controllers.VehicleContoller",
+    "Method": "GetVehicleById",
+    "RelativePath": "api/VehicleContoller/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaxiFleetManagement.Controllers.VehicleContoller",
+    "Method": "DeleteVehicle",
+    "RelativePath": "api/VehicleContoller/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaxiFleetManagement.Controllers.VehicleContoller",
+    "Method": "GetAvailableVehicles",
+    "RelativePath": "api/VehicleContoller/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passengers",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tripLenght",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

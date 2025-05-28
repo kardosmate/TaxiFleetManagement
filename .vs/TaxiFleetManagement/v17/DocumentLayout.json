@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\TaxiFleetManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|c:\\work\\taxifleetmanagement\\taxifleetbusiness\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|solutionrelative:taxifleetbusiness\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|c:\\work\\taxifleetmanagement\\taxifleetmanagement\\controllers\\vehiclecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|solutionrelative:taxifleetmanagement\\controllers\\vehiclecontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|c:\\work\\taxifleetmanagement\\taxifleetbusiness\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|solutionrelative:taxifleetbusiness\\interfaces\\ivehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|c:\\work\\taxifleetmanagement\\taxifleetdata\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|solutionrelative:taxifleetdata\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|c:\\work\\taxifleetmanagement\\taxifleetdata\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|solutionrelative:taxifleetdata\\repositories\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|c:\\work\\taxifleetmanagement\\taxifleetbusiness\\dtos\\vehicleprofitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|solutionrelative:taxifleetbusiness\\dtos\\vehicleprofitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|c:\\work\\taxifleetmanagement\\taxifleetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|solutionrelative:taxifleetmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|c:\\work\\taxifleetmanagement\\taxifleetmanagement\\filters\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|solutionrelative:taxifleetmanagement\\filters\\enumschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|c:\\work\\taxifleetmanagement\\taxifleetbusiness\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|solutionrelative:taxifleetbusiness\\dtos\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|c:\\work\\taxifleetmanagement\\taxifleetmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|solutionrelative:taxifleetmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|c:\\work\\taxifleetmanagement\\taxifleetbusiness\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634196B1-357F-4F47-BFD9-C5F82BB632F0}|TaxiFleetBusiness\\TaxiFleetBusiness.csproj|solutionrelative:taxifleetbusiness\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|c:\\work\\taxifleetmanagement\\taxifleetdata\\migrations\\taxifleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|solutionrelative:taxifleetdata\\migrations\\taxifleetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|c:\\work\\taxifleetmanagement\\taxifleetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5AC44F0-2495-4D0A-A3B3-3F6033836965}|TaxiFleetManagement\\TaxiFleetApi.csproj|solutionrelative:taxifleetmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|c:\\work\\taxifleetmanagement\\taxifleetdata\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD12AF91-B124-4FE2-BA9D-682856DAB992}|TaxiFleetData\\TaxiFleetData.csproj|solutionrelative:taxifleetdata\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleProfitDto.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Dtos\\VehicleProfitDto.cs",
+              "RelativeDocumentMoniker": "TaxiFleetBusiness\\Dtos\\VehicleProfitDto.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Dtos\\VehicleProfitDto.cs",
+              "RelativeToolTip": "TaxiFleetBusiness\\Dtos\\VehicleProfitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:26:14.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehicleService.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Interfaces\\IVehicleService.cs",
+              "RelativeDocumentMoniker": "TaxiFleetBusiness\\Interfaces\\IVehicleService.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Interfaces\\IVehicleService.cs",
+              "RelativeToolTip": "TaxiFleetBusiness\\Interfaces\\IVehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:44:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "TaxiFleetData\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "TaxiFleetData\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvywAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:55:11.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaxiFleetManagement\\Program.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Program.cs",
+              "RelativeToolTip": "TaxiFleetManagement\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:29:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Repositories\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "TaxiFleetData\\Repositories\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Repositories\\IVehicleRepository.cs",
+              "RelativeToolTip": "TaxiFleetData\\Repositories\\IVehicleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:55:51.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "TaxiFleetBusiness\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Services\\VehicleService.cs",
+              "RelativeToolTip": "TaxiFleetBusiness\\Services\\VehicleService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswFUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:44:07.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleContoller.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Controllers\\VehicleContoller.cs",
+              "RelativeDocumentMoniker": "TaxiFleetManagement\\Controllers\\VehicleContoller.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Controllers\\VehicleContoller.cs",
+              "RelativeToolTip": "TaxiFleetManagement\\Controllers\\VehicleContoller.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:31:11.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TaxiFleetBusiness\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "TaxiFleetBusiness\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:16:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaxiFleetDbContext.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Migrations\\TaxiFleetDbContext.cs",
+              "RelativeDocumentMoniker": "TaxiFleetData\\Migrations\\TaxiFleetDbContext.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Migrations\\TaxiFleetDbContext.cs",
+              "RelativeToolTip": "TaxiFleetData\\Migrations\\TaxiFleetDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:57:05.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateVehicleDto.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Dtos\\CreateVehicleDto.cs",
+              "RelativeDocumentMoniker": "TaxiFleetBusiness\\Dtos\\CreateVehicleDto.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetBusiness\\Dtos\\CreateVehicleDto.cs",
+              "RelativeToolTip": "TaxiFleetBusiness\\Dtos\\CreateVehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:30:15.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumSchemaFilter.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Filters\\EnumSchemaFilter.cs",
+              "RelativeDocumentMoniker": "TaxiFleetManagement\\Filters\\EnumSchemaFilter.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Filters\\EnumSchemaFilter.cs",
+              "RelativeToolTip": "TaxiFleetManagement\\Filters\\EnumSchemaFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:34:47.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TaxiFleetManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TaxiFleetManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T07:44:28.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "TaxiFleetManagement\\appsettings.json",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetManagement\\appsettings.json",
+              "RelativeToolTip": "TaxiFleetManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T14:47:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "TaxiFleetData\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Work\\TaxiFleetManagement\\TaxiFleetData\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "TaxiFleetData\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:53:11.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jgNqUNpSAblFMVbgwfH2pxmZ8c4EQm0wmizsWJ+bfZM=",
+  "Source": "TaxiFleetApi",
+  "BasePath": "_content/TaxiFleetApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

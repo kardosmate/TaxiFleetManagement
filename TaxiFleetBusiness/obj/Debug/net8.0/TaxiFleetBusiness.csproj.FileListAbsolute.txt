@@ -1,0 +1,17 @@
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetBusiness.deps.json
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetBusiness.runtimeconfig.json
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetBusiness.dll
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetBusiness.pdb
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetData.dll
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\bin\Debug\net8.0\TaxiFleetData.pdb
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.csproj.AssemblyReference.cache
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.AssemblyInfoInputs.cache
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.AssemblyInfo.cs
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.csproj.CoreCompileInputs.cache
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFlee.AED51B65.Up2Date
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.dll
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\refint\TaxiFleetBusiness.dll
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.pdb
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\TaxiFleetBusiness.genruntimeconfig.cache
+C:\Work\TaxiFleetManagement\TaxiFleetBusiness\obj\Debug\net8.0\ref\TaxiFleetBusiness.dll
