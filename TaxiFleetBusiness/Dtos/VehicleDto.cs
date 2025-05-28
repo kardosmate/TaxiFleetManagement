@@ -1,5 +1,8 @@
 ﻿namespace TaxiFleetApi.Models
 {
+    /// <summary>
+    /// Data Transfer Object for Vehicle
+    /// </summary>
     public class VehicleDto
     {
         public int Id { get; set; }

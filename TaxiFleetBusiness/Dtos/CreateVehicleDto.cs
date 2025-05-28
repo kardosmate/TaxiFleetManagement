@@ -3,6 +3,9 @@ using TaxiFleetData.Entities;
 
 namespace TaxiFleetApi.Models
 {
+    /// <summary>
+    /// Data Transfer Object for creating a new vehicle
+    /// </summary>
     public class CreateVehicleDto
     {
         [Required]

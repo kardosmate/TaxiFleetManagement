@@ -12,3 +12,4 @@ C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\refint\TaxiFleetData.
 C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.pdb
 C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.genruntimeconfig.cache
 C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\ref\TaxiFleetData.dll
+C:\Work\TaxiFleetManagement\TaxiFleetData\obj\Debug\net8.0\TaxiFleetData.sourcelink.json

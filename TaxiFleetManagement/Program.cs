@@ -14,14 +14,20 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        // Add JSON serialization options for enums
         builder.Services.AddControllers().AddJsonOptions(options =>
         {
             options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
         });
+        // Add database context with SQL Server
         builder.Services.AddDbContext<TaxiFleetDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+        // Add repositories and services
         builder.Services.AddScoped<IVehicleRepository, VehicleRepository>();
         builder.Services.AddScoped<IVehicleService, VehicleService>();
         builder.Services.AddAutoMapper(typeof(MappingProfile));
+
+        // Configure Swagger for API documentation
         builder.Services.AddSwaggerGen(c =>
         {
             c.SwaggerDoc("v1", new OpenApiInfo { Title = "Taxi Fleet API", Version = "v1" });

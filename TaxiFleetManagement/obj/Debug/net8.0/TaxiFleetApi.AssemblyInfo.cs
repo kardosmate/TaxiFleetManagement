@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaxiFleetApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f688bb58669d72fbaa2a3d80f9b1758281d335")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaxiFleetApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaxiFleetApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

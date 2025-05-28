@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace TaxiFleetBusiness.Dtos
 {
+    /// <summary>
+    /// Data Transfer Object for vehicle profit information.
+    /// </summary>
     public class VehicleProfitDto
     {
         public int Id { get; set; }

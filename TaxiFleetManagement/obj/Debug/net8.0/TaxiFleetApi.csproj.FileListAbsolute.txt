@@ -171,3 +171,4 @@ C:\Work\TaxiFleetManagement\TaxiFleetManagement\obj\Debug\net8.0\refint\TaxiFlee
 C:\Work\TaxiFleetManagement\TaxiFleetManagement\obj\Debug\net8.0\TaxiFleetApi.pdb
 C:\Work\TaxiFleetManagement\TaxiFleetManagement\obj\Debug\net8.0\TaxiFleetApi.genruntimeconfig.cache
 C:\Work\TaxiFleetManagement\TaxiFleetManagement\obj\Debug\net8.0\ref\TaxiFleetApi.dll
+C:\Work\TaxiFleetManagement\TaxiFleetManagement\obj\Debug\net8.0\TaxiFleetApi.sourcelink.json
